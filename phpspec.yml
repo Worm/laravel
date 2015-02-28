@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Razor
+        psr4_prefix: Razor
+        src_path: app
